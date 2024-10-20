@@ -7,7 +7,8 @@
 [![An image of @janhvis103's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janhvis103)](https://holopin.io/@janhvis103)
 
 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/janhvi-shukla103/)
+- ![image](https://github.com/user-attachments/assets/ed46f85e-39c5-4a3e-9ba9-4e3c0e052caa)
+(https://www.linkedin.com/in/janhvi-shukla103/)
 - [Gmail](mailto:janhvis103@gmail.com)
 
 ## 📈 My GitHub Stats:
