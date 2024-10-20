@@ -7,8 +7,9 @@
 [![An image of @janhvis103's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janhvis103)](https://holopin.io/@janhvis103)
 
 Connect with me:
+
 -[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janhvi-shukla103/)
-- [Gmail](mailto:janhvis103@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:janhvis103@gmail.com)
 
 ## 📈 My GitHub Stats:
 ![Janhvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
