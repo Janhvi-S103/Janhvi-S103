@@ -6,6 +6,13 @@
 - 🌐 Focused on UI/UX, Full Stack, and App Development
 [![An image of @janhvis103's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janhvis103)](https://holopin.io/@janhvis103)
 
+Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/janhvi-shukla103/)
+- [Gmail](mailto:janhvis103@gmail.com)
+
+## 📈 My GitHub Stats:
+![Janhvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 <!---
 Janhvi-S103/Janhvi-S103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
