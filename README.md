@@ -5,10 +5,6 @@
 - 🎮 Experienced in Unity game development
 - 🌐 Focused on UI/UX, Full Stack, and App Development
 
-
-
-[![An image of @janhvis103's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janhvis103)](https://holopin.io/@janhvis103)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/janhvi-shukla103/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/janhvi-shukla103/" height="30" width="40" /></a>
@@ -27,6 +23,7 @@
 ![Janhvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janhvi-S103&theme=tokyonight)
 
+[![An image of @janhvis103's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janhvis103)](https://holopin.io/@janhvis103)
 
 <!---
 Janhvi-S103/Janhvi-S103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
