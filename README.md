@@ -20,8 +20,8 @@
 
 
 ## 📈 My GitHub Stats:
-![Janhvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janhvi-S103&theme=tokyonight)
+![Janhvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Janhvi-s103&show_icons=true&theme=radical)  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=janhvi-s103&show_icons=true&locale=en&layout=compact" alt="janhvi-s103" /></p>
 
 [![An image of @janhvis103's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/janhvis103)](https://holopin.io/@janhvis103)
 
