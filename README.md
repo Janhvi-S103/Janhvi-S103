@@ -13,7 +13,8 @@ Connect with me:
 
 ## 📈 My GitHub Stats:
 ![Janhvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janhvi-S103&theme=tokyonight)
+
 
 <!---
 Janhvi-S103/Janhvi-S103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
