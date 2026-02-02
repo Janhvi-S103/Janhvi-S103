@@ -12,7 +12,7 @@ Computer Science undergraduate specializing in Full-Stack Development, with hand
 
 ---
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Janhvi-S103&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Janhvi-S103&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Janhvi-S103&theme=dark)
 ![GitHub Most Languages Used](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Janhvi-S103&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
